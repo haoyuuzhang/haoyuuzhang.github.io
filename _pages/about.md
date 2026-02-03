@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Master's student in Operations Research at the [Southwest University](https://www.swu.edu.cn/) at China, advised by the brilliant and kind Prof. [Jiawei Chen](https://www.scholat.com/jwchen.en) Before that, I worked in [Appen Ltd.](https://www.appen.com/) as a Math AI Training (AIGC) Intern.
+I am a Master's student in Operations Research at the [Southwest University](https://www.swu.edu.cn/) at China, advised by the brilliant and kind Prof. [Jiawei Chen](https://www.scholat.com/jwchen.en). Before that, I worked in [Appen Ltd.](https://www.appen.com/) as a Math AI Training (AIGC) Intern.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
