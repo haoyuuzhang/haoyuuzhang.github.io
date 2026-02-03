@@ -6,7 +6,7 @@ subtitle: <a href='#'>haoyu_zhang03@163.com</a>. Chongqing, China.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
