@@ -25,7 +25,7 @@ latest_posts:
 
 Hello, welcome to my homepage!
 
-I am currently a Master's student in Operations Research at [Southwest University](https://www.swu.edu.cn/), where I am luckily advised by the kind [Prof. Jiawei Chen](https://www.scholat.com/jwchen.en). Prior to this, I was a Math AI Training Intern in [Appen Ltd.](https://www.appen.com/). I received my B.S. degree in Mathematics from [Donghua University](https://www.dhu.edu.cn/).
+I am currently a Master's student in Operations Research at [Southwest University](https://www.swu.edu.cn/), where I am luckily advised by the kind [Prof. Jiawei Chen](https://www.scholat.com/jwchen.en). Prior to this, I was a Math AI Training Intern in [Appen Ltd.](https://www.appen.com/) I received my B.S. degree in Mathematics from [Donghua University](https://www.dhu.edu.cn/).
 
 My current research interests are distributed optimization, stochastic optimization, primal-dual algorithms as well as optimiaztion problems arising in machine learning, optimal control and multi-agent decision-making. I am also interested in theory of large language model(LLM), prompt engineering and vibe coding more recently.
 
