@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>haoyu_zhang03@163.com</a>.
+subtitle: <a href='#'>haoyu_zhang03@163.com</a>
 
 profile:
   align: right
@@ -24,6 +24,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 Hello, welcome to my homepage!
 
 I am currently a Master's student in Operations Research at [Southwest University](https://www.swu.edu.cn/), where I am luckily advised by the kind [Prof. Jiawei Chen](https://www.scholat.com/jwchen.en). Prior to this, I was a Math AI Training Intern in [Appen Ltd.](https://www.appen.com/). I received my B.S. degree in Mathematics from [Donghua University](https://www.dhu.edu.cn/).
