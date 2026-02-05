@@ -4,21 +4,21 @@ cv:
   email: haoyu_zhang03@163.com
   location: Chongqing, China
   image: ""
-  # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
-    # - network: X
-      # username: AlbertEinstein
+    - network: X
+      username: AlbertEinstein
     - network: GitHub
       username: haoyuuzhang
-    # - network: LinkedIn
-      # username: example
+    - network: LinkedIn
+      username: example
 
   address:
-    # street: 2712 Broadway St
+    street: 2712 Broadway St
     city: Chongqing
-    # region: Californi
-    # postalCode: CA 94115
+    region: Californi
+    postalCode: CA 94115
     countryCode: CN
 
   sections:
@@ -31,7 +31,7 @@ cv:
         start_date: 2025
         end_date: present
         score: ""
-        # courses: "Theory of Relativity"
+        courses: "Theory of Relativity"
         highlights:
           - Description 1.
           - Description 2.
@@ -39,7 +39,7 @@ cv:
       - institution: Donghua University
         location: Shanghai, China
         area: Mathematics
-        # studyType: Federal teaching diploma
+        studyType: Federal teaching diploma
         start_date: 2021
         end_date: 2025
         highlights:
