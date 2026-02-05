@@ -1,257 +1,97 @@
-cv:
-  name: "Haoyu Zhang"
-  location: "Chongqing, China"
-  email: "haoyu_zhang03@163.com"
-  phone: "+86-152-2139-9427"
-  sections:
-    education:
-      - institution: "Southwest University"
-        area: "Operations Research"
-        degree: "M.S."
-        grade:
-        date:
-        start_date: "2025-09"
-        end_date: "present"
-        location: "Chongqing"
-        summary:
-        highlights:
-          - "(Ranked 3/65): Optimization, Variational Analysis, etc."
-      - institution: "Donghua University"
-        area: "Mathematics and Applied Mathematics"
-        degree: "B.S."
-        grade:
-        date:
-        start_date: "2021-09"
-        end_date: "2025-06"
-        location: "Shanghai"
-        summary:
-        highlights:
-          - "(GPA: 4.0/5.0): Mathematical Modeling, Discrete Mathematics, Data Structures and Algorithms, etc."
-    knowledge and skills:
-      - label: "Expertise"
-        details: " Distributed Optimization, Stochastic Optimization, Primal-Dual Algorithms."
-      - label: "Languages"
-        details: "Mandarin (Native), English (CET-6), Japanese (JLPT-N2)"
-      - label: "Programming"
-        details: "Python, MATLAB "
-    work experience:
-      - company: "Appen Ltd. "
-        position: "Math AI Training (AIGC) Intern"
-        date:
-        start_date: "2025-01"
-        end_date: "2025-04"
-        location: "Chongqing, China"
-        summary:
-        highlights:
-          - "Contributed to the development of mathematical vertical capabilities for Large Language Models (LLMs) to enhance their reasoning performance in specialized domains."
-          - "Engineered complex reasoning solution chains and step-by-step logical paths using LaTeX and Markdown, facilitating the batch production of high-quality training data."
-    research experience:
-      - name: "Multi-Species Ecological Competition & Regression Analysis System"
-        date:
-        start_date: "2022-12"
-        end_date: "2023-05"
-        location:
-        summary: "Modeler of research group"
-        highlights:
-          - "Developed a regression analysis system to simulate complex interspecies competitive relationships based on the Lotka-Volterra model."
-      - name: "Fluid Dynamics & Thermal Coupling Modeling for Greenhouse Environments"
-        date:
-        start_date: "2023-11"
-        end_date: "2024-04"
-        location:
-        summary: "Leader  of research group"
-        highlights:
-          - "Constructed a coupling model for greenhouse gas concentrations and temperature distributions utilizing Navier-Stokes and heat conduction equations."
-    selected honors & awards:
-      - company: "Southwest University"
-        position: "Academic Scholarship"
-        date: "2025"
-        start_date:
-        end_date:
-        location:
-        summary:
-      - company: " Donghua University (Top-tier annual honor)"
-        position: "Tianji Annual Scholarship"
-        date: "2024"
-        start_date:
-        end_date:
-        location:
-        summary:
-        highlights: []
-      - company: "Mathematical Contest in Modeling (MCM)"
-        position: " Honorable Mention"
-        date: "2023"
-        start_date:
-        end_date:
-        location:
-        summary:
-        highlights: []
-      - company: "Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)"
-        position: "Shanghai Municipal Prize"
-        date: "2023"
-        start_date:
-        end_date:
-        location:
-        summary:
-        highlights: []
-      - company: "Asia-Pacific Mathematical Contest in Modeling (APMCM)"
-        position: "Third Prize"
-        date: "2023"
-        start_date:
-        end_date:
-        location:
-        summary:
-        highlights: []
-      - company: "Donghua University"
-        position: "University-level Scholarship (Twice)"
-        date: "2022 & 2023"
-        start_date:
-        end_date:
-        location:
-        summary:
-        highlights: []
-  sort_entries: "none"
-design:
-  theme: "engineeringclassic"
-  page:
-    size: "us-letter"
-    top_margin: "2cm"
-    bottom_margin: "2cm"
-    left_margin: "2cm"
-    right_margin: "2cm"
-    show_page_numbering: false
-    show_last_updated_date: true
-  colors:
-    text: "rgb(0, 0, 0)"
-    name: "rgb(0, 79, 144)"
-    connections: "rgb(0, 79, 144)"
-    section_titles: "rgb(0, 79, 144)"
-    links: "rgb(0, 79, 144)"
-    last_updated_date_and_page_numbering: "rgb(128, 128, 128)"
-  text:
-    font_family: "Fontin"
-    font_size: "10pt"
-    leading: "0.6em"
-    alignment: "justified"
-    date_and_location_column_alignment: "right"
-  links:
-    underline: false
-    use_external_link_icon: false
-  header:
-    name_font_family: "Raleway"
-    name_font_size: "30pt"
-    name_bold: false
-    small_caps_for_name: false
-    photo_width: "3.5cm"
-    vertical_space_between_name_and_connections: "0.7cm"
-    vertical_space_between_connections_and_first_section: "0.7cm"
-    horizontal_space_between_connections: "0.5cm"
-    connections_font_family: "Raleway"
-    separator_between_connections: ""
-    use_icons_for_connections: true
-    use_urls_as_placeholders_for_connections: false
-    make_connections_links: true
-    alignment: "left"
-  section_titles:
-    type: "with-partial-line"
-    font_family: "Raleway"
-    font_size: "1.4em"
-    bold: false
-    small_caps: false
-    line_thickness: "0.5pt"
-    vertical_space_above: "0.5cm"
-    vertical_space_below: "0.3cm"
-  entries:
-    date_and_location_width: "4.15cm"
-    left_and_right_margin: "0.2cm"
-    horizontal_space_between_columns: "0.1cm"
-    vertical_space_between_entries: "1.2em"
-    allow_page_break_in_sections: true
-    allow_page_break_in_entries: true
-    short_second_row: false
-    show_time_spans_in: []
-  highlights:
-    bullet: "•"
-    nested_bullet: "-"
-    top_margin: "0.25cm"
-    left_margin: "0cm"
-    vertical_space_between_highlights: "0.25cm"
-    horizontal_space_between_bullet_and_highlight: "0.5em"
-    summary_left_margin: "0cm"
-  entry_types:
-    one_line_entry:
-      template: "**LABEL:** DETAILS"
-    education_entry:
-      main_column_first_row_template: "**INSTITUTION**, AREA -- LOCATION"
-      degree_column_template: "**DEGREE**"
-      degree_column_width: "1cm"
-      main_column_second_row_template: |-
-        SUMMARY
-        HIGHLIGHTS
-      date_and_location_column_template: "DATE"
-    normal_entry:
-      main_column_first_row_template: "**NAME** -- **LOCATION**"
-      main_column_second_row_template: |-
-        SUMMARY
-        HIGHLIGHTS
-      date_and_location_column_template: "DATE"
-    experience_entry:
-      main_column_first_row_template: "**POSITION**, COMPANY -- LOCATION"
-      main_column_second_row_template: |-
-        SUMMARY
-        HIGHLIGHTS
-      date_and_location_column_template: "DATE"
-    publication_entry:
-      main_column_first_row_template: "**TITLE**"
-      main_column_second_row_template: |-
-        AUTHORS
-        URL (JOURNAL)
-      main_column_second_row_without_journal_template: |-
-        AUTHORS
-        URL
-      main_column_second_row_without_url_template: |-
-        AUTHORS
-        JOURNAL
-      date_and_location_column_template: "DATE"
-locale:
-  language: "en"
-  phone_number_format: "national"
-  page_numbering_template: "NAME - Page PAGE_NUMBER of TOTAL_PAGES"
-  last_updated_date_template: "Last updated in TODAY"
-  date_template: "MONTH_ABBREVIATION YEAR"
-  month: "month"
-  months: "months"
-  year: "year"
-  years: "years"
-  present: "present"
-  to: "–"
-  abbreviations_for_months:
-    - "Jan"
-    - "Feb"
-    - "Mar"
-    - "Apr"
-    - "May"
-    - "June"
-    - "July"
-    - "Aug"
-    - "Sept"
-    - "Oct"
-    - "Nov"
-    - "Dec"
-  full_names_of_months:
-    - "January"
-    - "February"
-    - "March"
-    - "April"
-    - "May"
-    - "June"
-    - "July"
-    - "August"
-    - "September"
-    - "October"
-    - "November"
-    - "December"
-rendercv_settings:
-  date: "2026-02-02"
-  bold_keywords: []
-  sort_entries: "none"
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
+    - name: Languages
+      value: English, German
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
+
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items:
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
