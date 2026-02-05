@@ -1,25 +1,17 @@
 cv:
   name: Haoyu Zhang
-  label: Master's student
+  label: Master's student in Operations Research
   email: haoyu_zhang03@163.com
+  phone: "152 2139 9427"
   location: Chongqing, China
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  image: "prof_pic.jpg" # 如果有照片，请放置在 assets/img/ 目录下并重命名
+  summary: "Focused on Distributed Optimization, Stochastic Optimization, and Primal-Dual Algorithms."
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: haoyuuzhang
+      username: haoyuuzhang # 基于您粘贴的原始 YAML 信息
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: Chongqing
-    region: Californi
-    postalCode: CA 94115
-    countryCode: CN
+      username: haoyu-zhang # 建议更新为您真实的 ID
 
   sections:
     Education:
@@ -28,162 +20,83 @@ cv:
         url: https://www.swu.cn/
         area: Operations Research
         studyType: M.S.
-        start_date: 2025
+        start_date: 2025-09
         end_date: present
-        score: ""
-        courses: "Theory of Relativity"
         highlights:
-          - Description 1.
-          - Description 2.
-
+          - "Ranked 3/65 in major."
+          - "Core Courses: Optimization, Variational Analysis, etc."
       - institution: Donghua University
         location: Shanghai, China
-        area: Mathematics
-        studyType: Federal teaching diploma
-        start_date: 2021
-        end_date: 2025
+        area: Mathematics and Applied Mathematics
+        studyType: B.S.
+        start_date: 2021-09
+        end_date: 2025-06
         highlights:
-          - Description 1.
-          - Description 2.
+          - "GPA: 4.0/5.0"
+          - "Core Courses: Mathematical Modeling, Discrete Mathematics, Data Structures and Algorithms, etc."
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Appen Ltd.
+        position: Math AI Training (AIGC) Intern
+        location: Chongqing, China
+        start_date: 2025-01
+        end_date: 2025-04
+        summary: Contributed to the development of mathematical vertical capabilities for Large Language Models (LLMs).
         highlights:
-          - Relativity
-          - Description 2.
+          - "Engineered complex reasoning solution chains and logical paths using LaTeX and Markdown."
+          - "Facilitated batch production of high-quality training data for specialized domains."
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+    Research: # 自定义研究经历部分
+      - title: Multi-Species Ecological Competition & Regression Analysis System
+        location: Research Modeler
+        start_date: 2022-12
+        end_date: 2023-05
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+          - "Developed a regression analysis system based on the Lotka-Volterra model."
+      - title: Fluid Dynamics & Thermal Coupling Modeling for Greenhouse Environments
+        location: Research Group Leader
+        start_date: 2023-11
+        end_date: 2024-04
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Constructed a coupling model for gas concentrations and temperature utilizing Navier-Stokes and heat conduction equations."
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: Academic Scholarship
+        awarder: Southwest University
+        date: 2025
+      - title: Tianji Annual Scholarship (Top-tier annual honor)
+        awarder: Donghua University
+        date: 2024
+      - title: Honorable Mention
+        awarder: Mathematical Contest in Modeling (MCM)
+        date: 2023
+      - title: Shanghai Municipal Prize
+        awarder: Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
+        date: 2023
+      - title: Third Prize
+        awarder: Asia-Pacific Mathematical Contest in Modeling (APMCM)
+        date: 2023
+      - title: University-level Scholarship (Twice)
+        awarder: Donghua University
+        date: 2022, 2023
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Expertise
+        keywords:
+          - Distributed Optimization
+          - Stochastic Optimization
+          - Primal-Dual Algorithms
+      - name: Programming
+        keywords:
+          - Python
+          - MATLAB
+          - LaTeX
+          - Markdown
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
+      - name: Mandarin
+        summary: Native
       - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        summary: CET-6
+      - name: Japanese
+        summary: JLPT-N2
