@@ -2,29 +2,19 @@ cv:
   name: Haoyu Zhang
   label: Master's student in Operations Research
   email: haoyu_zhang03@163.com
-  phone: "152 2139 9427"
+  phone: "+86 152 2139 9427" # 修复 1：添加国家代码并使用引号
   location: Chongqing, China
-  image: "prof_pic.jpg" # 如果有照片，请放置在 assets/img/ 目录下并重命名
-  summary: "Focused on Distributed Optimization, Stochastic Optimization, and Primal-Dual Algorithms."
-
-  social_networks:
-    - network: GitHub
-      username: haoyuuzhang # 基于您粘贴的原始 YAML 信息
-    - network: LinkedIn
-      username: haoyu-zhang # 建议更新为您真实的 ID
 
   sections:
     Education:
       - institution: Southwest University
         location: Chongqing, China
-        url: https://www.swu.cn/
         area: Operations Research
         studyType: M.S.
         start_date: 2025-09
         end_date: present
         highlights:
           - "Ranked 3/65 in major."
-          - "Core Courses: Optimization, Variational Analysis, etc."
       - institution: Donghua University
         location: Shanghai, China
         area: Mathematics and Applied Mathematics
@@ -33,7 +23,6 @@ cv:
         end_date: 2025-06
         highlights:
           - "GPA: 4.0/5.0"
-          - "Core Courses: Mathematical Modeling, Discrete Mathematics, Data Structures and Algorithms, etc."
 
     Experience:
       - company: Appen Ltd.
@@ -41,62 +30,45 @@ cv:
         location: Chongqing, China
         start_date: 2025-01
         end_date: 2025-04
-        summary: Contributed to the development of mathematical vertical capabilities for Large Language Models (LLMs).
         highlights:
-          - "Engineered complex reasoning solution chains and logical paths using LaTeX and Markdown."
-          - "Facilitated batch production of high-quality training data for specialized domains."
+          - "Engineered complex reasoning solution chains using LaTeX."
 
-    Research: # 自定义研究经历部分
-      - title: Multi-Species Ecological Competition & Regression Analysis System
-        location: Research Modeler
+    Research: # 修复 2：使用 ExperienceEntry 格式，避免被识别为出版物
+      - company: "Southwest University (Research Project)"
+        position: Research Modeler
+        location: Chongqing, China
         start_date: 2022-12
         end_date: 2023-05
         highlights:
           - "Developed a regression analysis system based on the Lotka-Volterra model."
-      - title: Fluid Dynamics & Thermal Coupling Modeling for Greenhouse Environments
-        location: Research Group Leader
+      - company: "Donghua University (Research Project)"
+        position: Research Group Leader
+        location: Shanghai, China
         start_date: 2023-11
         end_date: 2024-04
         highlights:
-          - "Constructed a coupling model for gas concentrations and temperature utilizing Navier-Stokes and heat conduction equations."
+          - "Constructed a coupling model for gas concentrations and temperature."
 
-    Awards:
-      - title: Academic Scholarship
-        awarder: Southwest University
+    Awards: # 修复 3：将 title 改为 label，awarder 改为 issuer
+      - label: Academic Scholarship
+        issuer: Southwest University
         date: 2025
-      - title: Tianji Annual Scholarship (Top-tier annual honor)
-        awarder: Donghua University
+      - label: Tianji Annual Scholarship
+        issuer: Donghua University
         date: 2024
-      - title: Honorable Mention
-        awarder: Mathematical Contest in Modeling (MCM)
+      - label: Honorable Mention
+        issuer: Mathematical Contest in Modeling (MCM)
         date: 2023
-      - title: Shanghai Municipal Prize
-        awarder: Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
+      - label: Shanghai Municipal Prize
+        issuer: CUMCM
         date: 2023
-      - title: Third Prize
-        awarder: Asia-Pacific Mathematical Contest in Modeling (APMCM)
+      - label: Third Prize
+        issuer: Asia-Pacific Mathematical Contest in Modeling (APMCM)
         date: 2023
-      - title: University-level Scholarship (Twice)
-        awarder: Donghua University
-        date: 2022, 2023
+      - label: University-level Scholarship
+        issuer: Donghua University
+        date: 2022
 
     Skills:
-      - name: Expertise
-        keywords:
-          - Distributed Optimization
-          - Stochastic Optimization
-          - Primal-Dual Algorithms
       - name: Programming
-        keywords:
-          - Python
-          - MATLAB
-          - LaTeX
-          - Markdown
-
-    Languages:
-      - name: Mandarin
-        summary: Native
-      - name: English
-        summary: CET-6
-      - name: Japanese
-        summary: JLPT-N2
+        keywords: [Python, MATLAB]
