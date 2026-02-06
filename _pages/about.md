@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: <a href='#'>haoyu_zhang03@163.com</a>
 
