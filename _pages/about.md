@@ -29,13 +29,10 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
+Hello, welcome to my homepage!
 
-I am a research scientist at the Multi-agent Lab, Beijing Institute for General Artificial Intelligence ([BIGAI](https://www.bigai.ai/)), China. Before that, I worked in Hitachi America Ltd. as a smart manufacturing researcher. I obtained my Ph.D. in 2023 from the [Robotics Department](https://robotics.umich.edu/) at the University of Michigan, where I was advised by Professors [Kira Barton](https://robotics.umich.edu/people/faculty/kira-barton/) and [Dawn M. Tilbury](https://robotics.umich.edu/people/faculty/dawn-tilbury/).
+I am currently a Master's student in Operations Research at [Southwest University](https://www.swu.edu.cn/), where I am luckily advised by the kind [Prof. Jiawei Chen](https://www.scholat.com/jwchen.en). Prior to this, I was a Math AI Training Intern in [Appen Ltd.](https://www.appen.com/) I received my B.S. degree in Mathematics from [Donghua University](https://www.dhu.edu.cn/).
 
-My research centers on distributed artificial intelligence, with a particular emphasis on multi-agent systems. I am interested in the following topics:
+My current research interests are distributed optimization, stochastic optimization, primal-dual algorithms as well as optimization problems arising in machine learning, optimal control and multi-agent decision-making. I am also interested in theory of large language model(LLM) and prompt engineering more recently.
 
-- **Research Areas:** Agent modeling, multi-agent interaction and decision-making, agent-based simulation
-- **Methodologies:** Multi-agent reinforcement learning (MARL), large language model (LLM)-based agents, optimization-based decision-making
-- **Applications:** Social simulation, smart manufacturing and supply chains, industrial robotics
-
-I am currently looking for prospective Ph.D. students through the [TongProgam (通计划)](https://www.bigai.ai/tongprogram-2024/) — a joint program for doctoral students between BIGAI and leading universities in China. Current partner universities with me include Zhejiang University, Beihang University, and Wuhan University. Feel free to reach out to me if you are interested!
+Other parts are under construction right now. Sorry for the inconvenience.
