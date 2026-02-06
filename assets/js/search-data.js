@@ -465,11 +465,11 @@ ninja.data = [{
           window.open("mailto:%68%61%6F%79%75_%7A%68%61%6E%67%30%33@%31%36%33.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-rss',
+        title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',
