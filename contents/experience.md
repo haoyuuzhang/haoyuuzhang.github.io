@@ -23,5 +23,5 @@ Worked on the development and optimization of large-scale recommendation systems
 ### **Math AI Training Intern**  
 **January 2025 – April 2025 | Appen**  
 
-- "Contributed to the development of mathematical vertical capabilities for Large Language Models (LLMs) to enhance their reasoning performance in specialized domains."
-- "Engineered complex reasoning solution chains and step-by-step logical paths using LaTeX and Markdown, facilitating the batch production of high-quality training data."
+- Contributed to the development of mathematical vertical capabilities for Large Language Models (LLMs) to enhance their reasoning performance in specialized domains.
+- Engineered complex reasoning solution chains and step-by-step logical paths using LaTeX and Markdown, facilitating the batch production of high-quality training data.
