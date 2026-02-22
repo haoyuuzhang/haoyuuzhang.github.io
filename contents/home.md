@@ -1,5 +1,5 @@
 [![haoyuuzhang](https://img.shields.io/badge/haoyuuzhang-github-blue?logo=github)](https://github.com/haoyuuzhang)
-[![cv](https://img.shields.io/badge/cv-github-blue?logo=github)](https://github.com/haoyuuzhang/haoyuuzhang.github.io/blob/main/static/assets/cv/Haoyu%20Zhang%20CV-26.2-4.pdf)
+[![cv](https://img.shields.io/badge/cv-pdf-blue?logo=readdotcv)](https://haoyuuzhang.github.io/static/assets/cv/Haoyu%20Zhang%20CV-26.2-4.pdf)
 
 <!-- I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX. -->
 I am currently a Master's student in Operations Research at [Southwest University](https://www.swu.edu.cn/), advised by the kind [Prof. Jiawei Chen](https://www.scholat.com/jwchen.en). Prior to this, I was a Math AI Training Intern in [Appen Ltd.](https://www.appen.com/) I received my B.S. degree in Mathematics from [Donghua University](https://www.dhu.edu.cn/).
