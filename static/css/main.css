@@ -98,8 +98,12 @@ section .main-body{
     z-index: 9000;
 }
 
-#avatar img {
+/* #avatar img {
     height: max(130px,min(200px,calc(100vw/6)));
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+} */
+#avatar img {
+    height: max(180px,min(280px,calc(100vw/4)));
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
