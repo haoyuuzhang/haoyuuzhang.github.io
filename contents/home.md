@@ -9,9 +9,8 @@ I am currently a Master's student in Operations Research at [Southwest Universit
 
 <!-- Other parts are under construction right now. Sorry for the inconvenience. -->
 
-#### Email  
-<!-- <code>XX@XX.XX</code>   -->
-<code>haoyu_zhang03@163.com</code>
+<!-- #### Email  
+<code>haoyu_zhang03@163.com</code> -->
 
 #### Education  
 M.S., Operations Research, Southwest University, 2025—present.\
