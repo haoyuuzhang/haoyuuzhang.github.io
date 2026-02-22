@@ -16,4 +16,4 @@ M.S., Operations Research, Southwest University, 2025—present.\
 B.S., Mathematics, Donghua University, 2021—2025.
 
 #### Research Interests  
-distributed optimization, stochastic optimization, primal-dual algorithms.
+Distributed Optimization, Stochastic Optimization, Primal-Dual Algorithms.
