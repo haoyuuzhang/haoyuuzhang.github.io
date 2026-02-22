@@ -1,4 +1,4 @@
-### **Software Engineer Intern**  
+<!-- ### **Software Engineer Intern**  
 **January 2025 – June 2025 | ByteDance**  
 
 Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
@@ -18,4 +18,10 @@ Worked on the development and optimization of large-scale recommendation systems
 #### 主要贡献:  
 - 研发并优化推荐算法，提高用户互动率和内容相关性。  
 - 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。 -->
+
+### **Math AI Training Intern**  
+**January 2025 – April 2025 | Appen**  
+
+- "Contributed to the development of mathematical vertical capabilities for Large Language Models (LLMs) to enhance their reasoning performance in specialized domains."
+- "Engineered complex reasoning solution chains and step-by-step logical paths using LaTeX and Markdown, facilitating the batch production of high-quality training data."
