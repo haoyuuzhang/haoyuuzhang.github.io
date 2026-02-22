@@ -1,5 +1,5 @@
 [![haoyuuzhang](https://img.shields.io/badge/haoyuuzhang-github-blue?logo=github)](https://github.com/haoyuuzhang)
-[![email](https://img.shields.io/badge/haoyu_zhang03@163.com-email-yellow?logo=email)](mailto:haoyu_zhang03@163.com)
+[![email](https://img.shields.io/badge/haoyu_zhang03@163.com-email-yellow?logo=maildotcom)](mailto:haoyu_zhang03@163.com)
 [![cv](https://img.shields.io/badge/cv-pdf-green?logo=readdotcv)](https://haoyuuzhang.github.io/static/assets/cv/Haoyu%20Zhang%20CV-26.2-4.pdf)
 
 <!-- I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX. -->
