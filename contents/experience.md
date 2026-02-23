@@ -20,8 +20,10 @@ Worked on the development and optimization of large-scale recommendation systems
 - 设计并实现实时数据处理流程，提升模型推理的计算效率。  
 - 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。 -->
 
-### **Math AI Training Intern**  
+### **Mathematical AIGC Training Intern**  
 **January 2025 – April 2025 | Appen**  
 
-- Contributed to the development of mathematical vertical capabilities for Large Language Models (LLMs) to enhance their reasoning performance in specialized domains.
-- Engineered complex reasoning solution chains and step-by-step logical paths using LaTeX and Markdown, facilitating the batch production of high-quality training data.
+- Designed Chain-of-Thought (CoT) structures to improve the logical consistency and interpretability of Large
+Language Models (LLMs) in solving complex mathematical problems.
+- Participated in establishing the company’s first set of data annotation specifications for mathematical
+reasoning chains, achieving structured reasoning paths and unified annotation standards.

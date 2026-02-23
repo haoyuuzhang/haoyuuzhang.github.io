@@ -4,4 +4,4 @@
 
 - Third-Prize Undergraduate Academic Scholarship(DHU), 2022 & 2023.
 
-- Honorable Mention(MCM), 2023.
+- Honorable Mention(MCM/ICM), 2023.
