@@ -1,7 +1,7 @@
 [![email](https://img.shields.io/badge/haoyu%20zhang03@163.com-email-yellow?logo=maildotcom)](mailto:haoyu_zhang03@163.com)
 [![haoyuuzhang](https://img.shields.io/badge/haoyuuzhang-github-blue?logo=github)](https://github.com/haoyuuzhang)
 [![cv_en](https://img.shields.io/badge/en-cv-green?logo=readdotcv)](https://haoyuuzhang.github.io/static/assets/cv/CV_en.pdf)
-[![cv_en](https://img.shields.io/badge/cn-cv-orange?logo=readdotcv)](https://haoyuuzhang.github.io/static/assets/cv/CV_cn.pdf)
+[![cv_cn](https://img.shields.io/badge/cn-cv-orange?logo=readdotcv)](https://haoyuuzhang.github.io/static/assets/cv/CV_cn.pdf)
 
 <!-- I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX. -->
 I am currently a Master's student in Operations Research at [Southwest University](https://www.swu.edu.cn/), advised by the kind [Prof. Jiawei Chen](https://www.scholat.com/jwchen.en). Prior to this, I was a Math AI Training Intern in [Appen Ltd.](https://www.appen.com/) I received my B.S. degree in Mathematics from [Donghua University](https://www.dhu.edu.cn/).
