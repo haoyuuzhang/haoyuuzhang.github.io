@@ -18,4 +18,5 @@ M.S., Operations Research, Southwest University, 2025—present.\
 B.S., Mathematics, Donghua University, 2021—2025.
 
 #### Research Interests  
-Distributed Optimization, Primal-Dual Algorithms, Multi-agent System Modeling
+ - Theory & Methodology: Distributed Optimization, Stochastic Optimization, Primal-Dual Algorithms, Multi-agent System Modeling
+ - Applications: Facility Location, Logistics and Transportation Scheduling, Production Planning and Manufacturing Systems
