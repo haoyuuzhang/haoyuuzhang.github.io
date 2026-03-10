@@ -1,4 +1,4 @@
-[![email](https://img.shields.io/badge/haoyu%20zhang03@163.com-email-yellow?logo=maildotcom)](mailto:haoyu_zhang03@163.com)
+[![email](https://img.shields.io/badge/zhanghaoyu@cqcai.edu.cn-email-yellow?logo=maildotcom)](mailto:zhanghaoyu@cqcai.edu.cn)
 [![github](https://img.shields.io/badge/haoyuuzhang-github-blue?logo=github)](https://github.com/haoyuuzhang)
 [![cv_en](https://img.shields.io/badge/en-cv-green?logo=readdotcv)](https://haoyuuzhang.github.io/static/assets/cv/CV_en.pdf)
 [![cv_cn](https://img.shields.io/badge/cn-cv-orange?logo=readdotcv)](https://haoyuuzhang.github.io/static/assets/cv/CV_cn.pdf)
