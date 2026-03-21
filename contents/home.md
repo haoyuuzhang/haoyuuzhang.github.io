@@ -1,7 +1,7 @@
 [![email](https://img.shields.io/badge/zhanghaoyu@cqcai.edu.cn-email-yellow?logo=maildotcom)](mailto:zhanghaoyu@cqcai.edu.cn)
 [![github](https://img.shields.io/badge/haoyuuzhang-github-blue?logo=github)](https://github.com/haoyuuzhang)
-[![cv_en](https://img.shields.io/badge/en-cv-green?logo=readdotcv)](https://haoyuuzhang.github.io/static/assets/cv/cv_en.pdf)
-[![cv_cn](https://img.shields.io/badge/cn-cv-orange?logo=readdotcv)](https://haoyuuzhang.github.io/static/assets/cv/cv_cn.pdf)
+[![cv_en](https://img.shields.io/badge/en-cv-green?logo=readdotcv)](https://haoyuuzhang.github.io/static/assets/cv/cv_en_163.pdf)
+[![cv_cn](https://img.shields.io/badge/cn-cv-orange?logo=readdotcv)](https://haoyuuzhang.github.io/static/assets/cv/cv_cn_163.pdf)
 
 <!-- I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX. -->
 I am currently a Master's student in Operations Research at [Southwest University](https://www.swu.edu.cn/), advised by [Prof. Jiawei Chen](https://www.scholat.com/jwchen.en). Prior to this, I was a Mathematical AIGC Training Intern at [Appen Ltd.](https://www.appen.com/) I received my B.S. degree in Mathematics from [Donghua University](https://www.dhu.edu.cn/).
