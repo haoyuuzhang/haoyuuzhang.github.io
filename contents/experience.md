@@ -20,7 +20,7 @@ Worked on the development and optimization of large-scale recommendation systems
 - 设计并实现实时数据处理流程，提升模型推理的计算效率。  
 - 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。 -->
 
-### **Mathematical AIGC Training Intern**  
+### **Mathematical AI-Generated Content Training Intern**  
 **January 2025 – April 2025 | Appen**  
 
 - Designed Chain-of-Thought (CoT) structures to improve the logical consistency and interpretability of Large
