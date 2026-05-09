@@ -23,7 +23,4 @@ Worked on the development and optimization of large-scale recommendation systems
 ### **Mathematical AI-Generated Content Training Intern**  
 **January 2025 – April 2025 | Appen**  
 
-- Designed Chain-of-Thought (CoT) structures to improve the logical consistency and interpretability of Large
-Language Models (LLMs) in solving complex mathematical problems.
-- Participated in establishing the company’s first set of data annotation specifications for mathematical
-reasoning chains, achieving structured reasoning paths and unified annotation standards.
+- Contributed to the Chain-of-Thought (CoT) mathematical reasoning project, primarily responsible for mathematical logic consistency verification, enhancing the interpretability of large language models in complex mathematical problem-solving.
