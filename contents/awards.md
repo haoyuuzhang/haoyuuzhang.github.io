@@ -1,3 +1,5 @@
+- Dean's Scholarship(CQCAI), 2026.
+
 - First-Prize Graduate Academic Scholarship(SWU), 2025.
 
 - Tianji Annual Scholarship(DHU), 2024.
