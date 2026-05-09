@@ -1,6 +1,6 @@
 [![email](https://img.shields.io/badge/haoyu_zhang03@163.com-email-yellow?logo=maildotcom)](mailto:haoyu_zhang03@163.com)
 [![github](https://img.shields.io/badge/haoyuuzhang-github-blue?logo=github)](https://github.com/haoyuuzhang)
-[![cv_en](https://img.shields.io/badge/en-cv-green?logo=readdotcv)](https://haoyuuzhang.github.io/static/assets/cv/cv_en_163.pdf)
+<!-- [![cv_en](https://img.shields.io/badge/en-cv-green?logo=readdotcv)](https://haoyuuzhang.github.io/static/assets/cv/cv_en_163.pdf) -->
 [![cv_cn](https://img.shields.io/badge/cn-cv-orange?logo=readdotcv)](https://haoyuuzhang.github.io/static/assets/cv/cv_cn_163.pdf)
 
 <!-- I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX. -->
