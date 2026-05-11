@@ -60,4 +60,28 @@ window.addEventListener('DOMContentLoaded', event => {
             .catch(error => console.log(error));
     })
 
-}); 
+    // Dark mode toggle
+    const darkModeToggle = document.getElementById('darkModeToggle');
+    const darkIcon = darkModeToggle.querySelector('i');
+    const html = document.documentElement;
+
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme === 'dark') {
+        html.setAttribute('data-theme', 'dark');
+        darkIcon.className = 'bi bi-sun-fill';
+    }
+
+    darkModeToggle.addEventListener('click', () => {
+        const isDark = html.getAttribute('data-theme') === 'dark';
+        if (isDark) {
+            html.removeAttribute('data-theme');
+            darkIcon.className = 'bi bi-moon-fill';
+            localStorage.setItem('theme', 'light');
+        } else {
+            html.setAttribute('data-theme', 'dark');
+            darkIcon.className = 'bi bi-sun-fill';
+            localStorage.setItem('theme', 'dark');
+        }
+    });
+
+});
